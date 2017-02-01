@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ItemsCollection>
+  <Item>
+    <ItemName>Torse</ItemName>
+    <ItemType>Armure</ItemType>
+  </Item>
+  <Item>
+    <ItemName>Potion</ItemName>
+    <ItemType>Consommable</ItemType>
+  </Item>
+  <Item>
+    <ItemName>Mur</ItemName>
+    <ItemType>Batiment</ItemType>
+  </Item>
+</ItemsCollection>
