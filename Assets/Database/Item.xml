@@ -3,12 +3,15 @@
   <Items>
     <Item ItemName="Torse">
       <ItemType>Armure</ItemType>
+      <ItemIcon>weapon.png</ItemIcon>
     </Item>
     <Item ItemName="Mur">
       <ItemType>Batiment</ItemType>
+      <ItemIcon>wall.png</ItemIcon>
     </Item>
     <Item ItemName="Potions">
       <ItemType>Consommable</ItemType>
+      <ItemIcon>potion.png</ItemIcon>
     </Item>
   </Items>
 </ItemsCollection>

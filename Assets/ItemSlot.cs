@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using UnityEngine;
 
 namespace Assets
 {
-    public class ItemSlot
+    public class ItemSlot : MonoBehaviour
     {
-        private Item itemInSlot;
+        public Item itemInSlot;
 
         public ItemSlot()
         {

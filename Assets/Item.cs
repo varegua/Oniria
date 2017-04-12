@@ -2,6 +2,7 @@
 using System.Xml;
 using System.Xml.Schema;
 using System.Xml.Serialization;
+using UnityEngine;
 
 public class Item
 {
@@ -16,6 +17,9 @@ public class Item
         Armure,
         Batiment
     }
+
+    [XmlElement("ItemIcon")]
+    public string ItemIcon { get; set; }
 
     public Item()
     {
